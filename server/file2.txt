@@ -1,0 +1,5 @@
+This is test file#2 for CNT5106C Socket Programming Assignment (Spring 2022)
+Simple File Server application in Python 3 using socket programming
+
+Raghav Rathi
+UFID 9811-4622
